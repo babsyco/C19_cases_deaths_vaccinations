@@ -3,5 +3,5 @@ The Google Colab notebook contained in this repository creates data visualisatio
 
 Visualisations:
 
-![Screenshot]('daily vaccine vs deaths per capita.png')
-![Screenshot]('cumulative vaccine vs deaths per capita.png')
+![Screenshot]('/daily vaccine vs deaths per capita.png')
+![Screenshot]('/cumulative vaccine vs deaths per capita.png')

@@ -4,4 +4,5 @@ The Google Colab notebook contained in this repository creates visualisations of
 Visualisations:
 ![Daily](https://github.com/babsyco/C19_cases_deaths_vaccinations/blob/main/daily_vaccine_vs_deaths_per_capita.png)
 ![Cumulative](https://github.com/babsyco/C19_cases_deaths_vaccinations/blob/main/cumulative_vaccine_vs_deaths_per_capita.png)
+![time_to_HI](https://github.com/babsyco/C19_cases_deaths_vaccinations/blob/main/Times_to_HI_United%20States.png)
 
